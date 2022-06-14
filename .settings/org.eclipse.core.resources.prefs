@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/tutorial/blog/entity/BlogAuthor.java=UTF-8
+encoding//src/tutorial/blog/entity/BlogCategory.java=UTF-8
+encoding//src/tutorial/blog/entity/BlogComment.java=UTF-8
+encoding//src/tutorial/blog/entity/BlogPost.java=UTF-8
+encoding//src/tutorial/blog/entity/BlogPostToCategory.java=UTF-8
+encoding//src/tutorial/blog/entity/BlogRelated.java=UTF-8
+encoding//src/tutorial/blog/entity/BlogTag.java=UTF-8
+encoding//src/tutorial/blog/entity/BlogUser.java=UTF-8
+encoding//src/tutorial/blog/entity/BlogUserDetail.java=UTF-8
